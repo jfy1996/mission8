@@ -60,17 +60,19 @@ nav {
     width: 2.5rem;
     height: 2.4rem;
     background: url("img.png")no-repeat;
-    background-size: 207.7rem 17.6rem;
     margin: 0.2rem;
 }
 .icon-wx {
     background-position: -7.9rem 0;
+    background-size: 207.7rem 17.6rem;
 }
 .icon-qq {
     background-position: -2.9rem 0;
+    background-size: 207.7rem 17.6rem;
 }
 .icon-wb {
     background-position: -5.4rem 0;
+    background-size: 207.7rem 17.6rem;
 }
  /*图标*/
 
@@ -335,7 +337,6 @@ main .pic-jns {
     height: 10.8rem;
     margin-top: 1.9rem;
     margin-bottom: 1rem;
-    background-size: 207.7rem 17.6rem;
 }
   /*学员头像*/
 
@@ -347,16 +348,19 @@ main .pic-jns {
 
 .portrait-people-1 {
     background: url("img.png")no-repeat -81.4rem 0;
-
+    background-size: 207.7rem 17.6rem;
 }
 .portrait-people-2 {
     background: url("img.png")no-repeat -59.8rem 0;
+    background-size: 207.7rem 17.6rem;
 }
 .portrait-people-3 {
     background: url("img.png")no-repeat -49rem 0;
+    background-size: 207.7rem 17.6rem;
 }
 .portrait-people-4 {
     background: url("img.png")no-repeat -70.6rem 0;
+    background-size: 207.7rem 17.6rem;
 }
 .card-title {
     margin: 2.3rem auto;
